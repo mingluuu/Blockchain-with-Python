@@ -12,6 +12,7 @@ A conda environment with liabraries listed below and Jupyter Notebook/Lab are re
 
 The following library was used:
 - Streamlit - Streamlit turns data scripts into shareable web apps in minutes.
+
 Install the following librarie(s) in your terminal.
 ```
 pip install streamlit
